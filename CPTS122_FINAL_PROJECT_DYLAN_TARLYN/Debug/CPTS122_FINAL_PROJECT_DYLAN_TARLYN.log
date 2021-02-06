@@ -1,0 +1,10 @@
+﻿  Enemy.cpp
+C:\Users\dtarl\OneDrive\Desktop\CPTS 122\CPTS122_FINAL_PROJECT_DYLAN_TARLYN\CPTS122_FINAL_PROJECT_DYLAN_TARLYN\Enemy.cpp(9,42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Game.cpp
+C:\Users\dtarl\OneDrive\Desktop\CPTS 122\CPTS122_FINAL_PROJECT_DYLAN_TARLYN\CPTS122_FINAL_PROJECT_DYLAN_TARLYN\Game.cpp(421,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\dtarl\OneDrive\Desktop\CPTS 122\CPTS122_FINAL_PROJECT_DYLAN_TARLYN\CPTS122_FINAL_PROJECT_DYLAN_TARLYN\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bullet.cpp
+  Player.cpp
+  Generating Code...
+  CPTS122_FINAL_PROJECT_DYLAN_TARLYN.vcxproj -> C:\Users\dtarl\OneDrive\Desktop\CPTS 122\CPTS122_FINAL_PROJECT_DYLAN_TARLYN\Debug\CPTS122_FINAL_PROJECT_DYLAN_TARLYN.exe
